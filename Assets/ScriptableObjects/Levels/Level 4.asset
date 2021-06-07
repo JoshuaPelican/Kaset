@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0cf255d59a9e3479104ddd867899ed, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  cassetteName: TCL- Die Historic
+  levelMusic: {fileID: 8300000, guid: 9d4a2e946d4c0a64b95ac8b3f9c445c5, type: 3}
+  audioMulti: 1
+  audioThresholdSmall: 3
+  smallEnemy: 0
+  audioThresholdMedium: 9
+  mediumEnemy: 1
+  audioThresholdLarge: 14
+  largeEnemy: 2
+  difficulty: 4
+  weapon: {fileID: 11400000, guid: ff7c4b3ff7d19314db9e9e86843d5e19, type: 2}
+  weaponIcon: {fileID: 7895098620105481152, guid: eab61686a93eaf74d911d05c23dd525e,
+    type: 3}
+  skin: {fileID: -8092511748412943879, guid: 16e2820636bcbd440a24a2d247a3706a, type: 3}

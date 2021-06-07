@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 100967dcd02f22843adce51c716d73cd, type: 3}
+  m_Name: Cube
+  m_EditorClassIdentifier: 
+  name: Cube
+  deathSystem: {fileID: 6027320119219509360, guid: 8c22dff32e9c6e9439f7e011ac961f66,
+    type: 3}
+  deathClip: {fileID: 8300000, guid: c5d4eebb67a439e47b648693a34083e8, type: 3}
+  shootClip: {fileID: 8300000, guid: f449d298553c7af48a92e4679ebcb69f, type: 3}
+  weapon: {fileID: 11400000, guid: 6349d2f87b68d1342ad50522fdd69af0, type: 2}
+  health: 4
+  speed: 4
+  scoreValue: 150

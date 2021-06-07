@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 093da1ac3954e7541b0dfcbf49cb87aa, type: 3}
+    - {fileID: 102900000, guid: 8a7610508e87d934391246115e4e8a25, type: 3}
+    - {fileID: 102900000, guid: 23a987680aac8ae459f499e05313a2d2, type: 3}
+    - {fileID: 102900000, guid: c8374f80a3ee99e4893212de6c390d4c, type: 3}
+    totalSpriteSurfaceArea: 291660
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7293f430254414e4f865a5fcd671a1c2, type: 3}
+  - {fileID: -8474058189901530454, guid: b44f4131a61899c41ba8f5376bef19ef, type: 3}
+  - {fileID: -5429228099160406300, guid: b44f4131a61899c41ba8f5376bef19ef, type: 3}
+  - {fileID: -7472035966321657647, guid: b44f4131a61899c41ba8f5376bef19ef, type: 3}
+  - {fileID: 21300000, guid: 086f17c1fab6c9c44b0d07f8696e9ab6, type: 3}
+  - {fileID: 21300000, guid: 5d235d62feeb92749a99a4f16349381e, type: 3}
+  - {fileID: 21300000, guid: eb164e6255faa1b4db0de7ebe4f0fd7c, type: 3}
+  - {fileID: 21300000, guid: 7de42db4195ab78479ecea2de49cb3d2, type: 3}
+  - {fileID: -8977559433556632837, guid: eab61686a93eaf74d911d05c23dd525e, type: 3}
+  - {fileID: -2973636079576764248, guid: eab61686a93eaf74d911d05c23dd525e, type: 3}
+  - {fileID: 7895098620105481152, guid: eab61686a93eaf74d911d05c23dd525e, type: 3}
+  - {fileID: -5824367619583394309, guid: eab61686a93eaf74d911d05c23dd525e, type: 3}
+  - {fileID: -2675880808916121811, guid: eab61686a93eaf74d911d05c23dd525e, type: 3}
+  - {fileID: 901653401129936281, guid: 88c42538f10823c49bc644785a0b7b89, type: 3}
+  - {fileID: -7177545440412576536, guid: 88c42538f10823c49bc644785a0b7b89, type: 3}
+  - {fileID: -4556884604332507484, guid: 88c42538f10823c49bc644785a0b7b89, type: 3}
+  - {fileID: 21300000, guid: ba1c62dae47d1a942b2173e44a0b11b7, type: 3}
+  - {fileID: 21300000, guid: a33add5b157331043b4e6db15c82a7f7, type: 3}
+  - {fileID: 21300000, guid: 7ec344ac16f79e24993aaa7487a2736b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SlotCover
+  - JoystickButton_0
+  - JoystickButton_1
+  - JoystickButton_2
+  - MainMenuMachine
+  - CityRoadHudBG
+  - CasetteLevelBacker
+  - Sun
+  - WeaponIcons_4
+  - WeaponIcons_2
+  - WeaponIcons_3
+  - WeaponIcons_0
+  - WeaponIcons_1
+  - RewindButton_2
+  - RewindButton_1
+  - RewindButton_0
+  - Title
+  - Coin
+  - Background
+  m_Tag: UISpriteAtlas
+  m_IsVariant: 0

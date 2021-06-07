@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0cf255d59a9e3479104ddd867899ed, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  cassetteName: Home - Were Finally Landing
+  levelMusic: {fileID: 8300000, guid: 48217226084466a4abf730e9c638644b, type: 3}
+  audioMulti: 1
+  audioThresholdSmall: 4
+  smallEnemy: 0
+  audioThresholdMedium: 10
+  mediumEnemy: 1
+  audioThresholdLarge: 18
+  largeEnemy: 2
+  difficulty: 2
+  weapon: {fileID: 11400000, guid: a881cf9b4772aff4ebbcbb796f13e6ee, type: 2}
+  weaponIcon: {fileID: -2675880808916121811, guid: eab61686a93eaf74d911d05c23dd525e,
+    type: 3}
+  skin: {fileID: 3235605897249845778, guid: 16e2820636bcbd440a24a2d247a3706a, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0cf255d59a9e3479104ddd867899ed, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  cassetteName: Home - Above All
+  levelMusic: {fileID: 8300000, guid: 5332e608128b9cc4a88759f0999d7d3b, type: 3}
+  audioMulti: 1
+  audioThresholdSmall: 8
+  smallEnemy: 0
+  audioThresholdMedium: 18
+  mediumEnemy: 1
+  audioThresholdLarge: 100
+  largeEnemy: 2
+  difficulty: 1
+  weapon: {fileID: 11400000, guid: 446482e14535fdf489bdf4ab9693b4d0, type: 2}
+  weaponIcon: {fileID: -5824367619583394309, guid: eab61686a93eaf74d911d05c23dd525e,
+    type: 3}
+  skin: {fileID: -8806309692160546267, guid: 16e2820636bcbd440a24a2d247a3706a, type: 3}

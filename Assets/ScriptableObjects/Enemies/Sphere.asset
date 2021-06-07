@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 100967dcd02f22843adce51c716d73cd, type: 3}
+  m_Name: Sphere
+  m_EditorClassIdentifier: 
+  name: Sphere
+  deathSystem: {fileID: 6027320119219509360, guid: e56068ae67b070a4cb97fd0505a5bab1,
+    type: 3}
+  deathClip: {fileID: 8300000, guid: c5d4eebb67a439e47b648693a34083e8, type: 3}
+  shootClip: {fileID: 0}
+  weapon: {fileID: 0}
+  health: 9
+  speed: 2
+  scoreValue: 250
